@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3vin-h&layout=compact&theme=radical)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=K3vin-h)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for visiting! 😊 
