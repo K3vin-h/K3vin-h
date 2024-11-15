@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔥 Key Skills and Languages
+- **Languages:** Python, JavaScript, C
+- **Frameworks:** React, Node.js
+- **Tools:** Git, GitHub Actions
 
 
 ### GitHub Stats
