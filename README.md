@@ -2,14 +2,14 @@
 
 ---
 
-### 🐕 About Me
+### About Me
 - 💼 Currently working on React JS App.
 - 🌱 Learning more about AI.
 - 🧗‍♂️ Always open to new challenges and collaborations.
 
 ---
 
-### 🌸 Tech Stack
+### Tech Stack
 Here are the tools and technologies I enjoy working with:
 
 - **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFB3?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-B3FFEC?style=for-the-badge&logo=python&logoColor=blue)
@@ -18,13 +18,13 @@ Here are the tools and technologies I enjoy working with:
 
 ---
 
-### 🌸 GitHub Stats
+### GitHub Stats
 
 Check out my GitHub activity below to see what I've been working on!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K3vin-h&show_icons=true&theme=tokyonight&title_color=ffb3ff&icon_color=ffc2e0&text_color=ffffff&bg_color=282828)
 
-### 🐕 Top Languages
+### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K3vin-h&layout=compact&theme=tokyonight&title_color=ffb3ff&text_color=ffffff&bg_color=282828)
 
