@@ -1,4 +1,4 @@
-# 🌸 Hello! 👋 Welcome to My Profile 🌸
+# Hello! 👋 Welcome to My Profile 
 
 ---
 
@@ -18,5 +18,4 @@ Here are the tools and technologies I enjoy working with:
 
 ---
 
-
-> 🌸 *Thanks for stopping by!* 🌸
+ 🌸
