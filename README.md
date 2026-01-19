@@ -17,5 +17,3 @@ Here are the tools and technologies I enjoy working with:
 - **Tools**: ![Git](https://img.shields.io/badge/Git-FFB3B3?style=for-the-badge&logo=git&logoColor=red) ![VS Code](https://img.shields.io/badge/VS%20Code-B3B3FF?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 ---
-
- 🌸
