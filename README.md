@@ -1,6 +1,6 @@
 # Kevin Huang
 
-Computer Engineering student. I like building web apps and learning about machine learning.
+Computer Engineering student at UBC. I like building web apps and learning about machine learning.
 
 **Contact:** [kevindevbuilds@gmail.com](mailto:kevindevbuilds@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kevin-huang-986077250/) · [Portfolio](https://k3vinhuang.me)
 
