@@ -36,4 +36,4 @@ A project showcase site for developers. Pulls repo data with GitHub OAuth, and l
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=K3vin-h&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=K3vin-h&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=K3vin-h&rank_icon=github&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=K3vin-h&rank_icon=github&show_icons=true&include_all_commits=true&theme=algolia)
