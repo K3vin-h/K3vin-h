@@ -1,41 +1,35 @@
-# Hi, I'm Kevin Huang
+# Kevin Huang
 
-Computer Engineering student at **UBC**. I build backend and full-stack systems, usually with some applied machine learning mixed in, and I like hackathons and projects that solve a real problem for real people.
 
-🏆 2× hackathon winner
+I'm a second-year Computer Engineering student at the University of British Columbia.
 
-**Contact:** [kevindevbuilds@gmail.com](mailto:kevindevbuilds@gmail.com) · [LinkedIn](https://www.linkedin.com/in/k3vin-huang/) · [Portfolio](https://k3vinhuang.me)
+Website and Platform Manager @ The Alberta Helpers · `Jul 2026 to Present`
 
----
+[k3vinhuang.me](https://k3vinhuang.me) · [LinkedIn](https://www.linkedin.com/in/k3vin-huang/) 
 
-## Featured Projects
+<br>
 
-**[Handshake](https://github.com/K3vin-h/Handshake)** · 🏆 *Best Community Impact + MLH Best Use of Vultr, HackCamp 2026*
-A browser-based ASL fingerspelling tutor built around the person you want to talk to. MediaPipe tracks your hand through the webcam, a TensorFlow.js model checks your handshape live, and Gemini turns the feedback into coaching tips.
-`React` `TypeScript` `TensorFlow.js` `MediaPipe` `Three.js` `Node.js` `Gemini` `Tiger Data (TimescaleDB)` `n8n` `Vultr`
+### projects
 
-**[SURGE](https://github.com/K3vin-h/surge-stormhacks)** · 🏆 *MLH Best Use of Snowflake, StormHacks 2026*
-A flood-response platform that connects governments and citizens. Officials publish area-specific instructions; residents get alerts, evacuation routes (Dijkstra over real road networks), and can send reports and SOS requests back.
-`Python` `FastAPI` `Snowflake` `MapLibre` `Gemini` `ElevenLabs`
+**[Handshake ↗](https://github.com/K3vin-h/Handshake)** &nbsp;`HackCamp 2026 · 2 awards`<br>
+A browser-based ASL fingerspelling tutor built around the person you want to talk to. MediaPipe tracks your hand through the webcam, a TensorFlow.js model checks your handshape live, and Gemini turns the feedback into coaching tips.<br>
+`React · TypeScript · TensorFlow.js · MediaPipe · Gemini`
 
-**[parking-tracker](https://github.com/K3vin-h/parking-tracker)**
-A full parking management system with my own license plate recognition model (CRNN + CTC, no outside computer vision APIs), a gate kiosk, automated billing, resident wallets, and HTMX dashboards.
-`Django` `PyTorch` `OpenCV` `HTMX`
+**[SURGE ↗](https://github.com/K3vin-h/surge-stormhacks)** &nbsp;`StormHacks 2026 winner`<br>
+A flood-response platform that connects governments and citizens. Officials publish area-specific instructions, and residents get alerts, evacuation routes over real road networks, and a way to send reports and SOS requests back.<br>
+`Python · FastAPI · Snowflake · MapLibre · Gemini`
 
----
+**[Parking Tracker ↗](https://github.com/K3vin-h/parking-tracker)**<br>
+A parking management system with my own license plate recognition model (CRNN + CTC, no outside vision APIs), a gate kiosk, automated billing, resident wallets, and HTMX dashboards.<br>
+`Django · PyTorch · OpenCV · HTMX`
 
-## Skills
+<br>
 
-**Languages:** Python, TypeScript, JavaScript, SystemVerilog
+### stack
 
-**Frameworks:** React, Next.js, Django, FastAPI
+`Python · TypeScript · JavaScript · SystemVerilog`<br>
+`React · Next.js · Django · FastAPI · PyTorch · OpenCV · PostgreSQL · Git`
 
-**ML:** PyTorch, OpenCV
+<br>
 
-**Tools:** PostgreSQL, Git
-
----
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=K3vin-h&rank_icon=github&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/K3vin-h)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=K3vin-h&rank_icon=github&show_icons=true&include_all_commits=true&bg_color=000412&title_color=E8EEF2&text_color=8E9AA6&icon_color=2BF08A&ring_color=2BF08A&hide_border=true)](https://github.com/K3vin-h)
