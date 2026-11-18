@@ -5,7 +5,6 @@ I'm a second-year Computer Engineering student at the University of British Colu
 
 Website and Platform Manager @ The Alberta Helpers · `Jul 2026 to Present`
 
-[k3vinhuang.me](https://k3vinhuang.me) · [LinkedIn](https://www.linkedin.com/in/k3vin-huang/) 
 
 <br>
 
